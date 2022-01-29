@@ -10,7 +10,7 @@
 
 </br> 
 <p align="center"> 
-<img src="https://img.shields.io/badge/CSharp-282C34?logo=Csharp&logoColor=#8669AE" alt="C# logo" title="C#" height="25" /> &nbsp; <img src="https://img.shields.io/badge/.Net-282C34?logo=.Net&logoColor=#512BD4" alt=".Net logo" title=".Net" height="25" /> &nbsp; <img src="https://img.shields.io/badge/Adobe XD-282C34?logo=Adobe XD&logoColor=#FF61F6" alt="Adobe XD logo" title="Adobe XD" height="25" />  &nbsp; <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node.js logo" title="Node.js" height="25" /> </p>
+<img src="https://img.shields.io/badge/CSharp-282C34?logo=Csharp&logoColor=#8669AE" alt="C# logo" title="C#" height="25" /> &nbsp; <img src="https://img.shields.io/badge/.Net-282C34?logo=.Net&logoColor=#512BD4" alt=".Net logo" title=".Net" height="25" /> &nbsp; <img src="https://img.shields.io/badge/Adobe XD-282C34?logo=Adobe XD&logoColor=#FF61F6" alt="Adobe XD logo" title="Adobe XD" height="25" />  &nbsp; <img src="https://img.shields.io/badge/Node.js-282C34?logo=Node.js&logoColor=#339933" alt="Node.js logo" title="Node.js" height="25" />  &nbsp; <img src="https://img.shields.io/badge/Redux-282C34?logo=Redux&logoColor=61DAFB" alt="Redux logo" title="Redux" height="25" /> </p>
         
 ## ✍(◔◡◔)  &nbsp;  I have studied it, but not using:  
 </br> 
