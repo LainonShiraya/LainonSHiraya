@@ -1,21 +1,5 @@
-# Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!-- # Welcome to my profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> -->
 
-<img src="https://avatars.githubusercontent.com/u/59234543?v=4" align="left" width="250px">
- 
-
-<p align="left">
-<h3 align="left">I'm Konrad Rzodkiewicz, </h3>  
-
-A 22 years old IT student at university of PJATK in Warsaw.     
-I have always been interested in front end development, and I would love to get some feedback aswell as first real experience. 
-
-</br>
-</br>
-</br>
-</br>
-</br>
-
- </p>
 
 ## ✍(◔◡◔)  &nbsp;  I'm familiar with: 
 
